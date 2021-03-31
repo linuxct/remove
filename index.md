@@ -12,7 +12,7 @@ Please, follow the steps below in order to disable the malware and allow you to 
    It could be named something like "com.tencent.mm" or "com.eg.android.AlipayGphone", among some other names.
 4. Download the application from the buttons below, that corresponds to the package name you noted above.
 5. Install the APK that gets downloaded in the infected device. After the installation, the virus will be neutralized.
-6. Uninstall the FluBot Removal Tool application.
+6. Uninstall the leftovers from the application you downloaded in step 4.
 
 <p style="text-align:center">
    <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/To%20stop%20tencent%20mm%20fake%20application.apk" class="btn">com.tencent.mm</a>
