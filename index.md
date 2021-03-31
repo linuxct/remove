@@ -15,12 +15,12 @@ Please, follow the steps below in order to disable the malware and allow you to 
 6. Uninstall the FluBot Removal Tool application.
 
 <p style="text-align:center">
-   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/com.tencent.mm.apk" class="btn">com.tencent.mm</a>
-   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/com.tencent.mobileqq.apk" class="btn">com.tencent.mobileqq</a>
-   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/com.clubbing.photos.apk" class="btn">com.clubbing.photos</a>
-   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/com.redtube.music.apk" class="btn">com.redtube.music</a>
-   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/com.taobao.taobao.apk" class="btn">com.taobao.taobao</a>
-   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/com.eg.android.AlipayGphone.apk" class="btn">com.eg.android.AlipayGphone</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/To%20stop%20tencent%20mm%20fake%20application.apk" class="btn">com.tencent.mm</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/QQ%20application%20stopper.apk" class="btn">com.tencent.mobileqq</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/clubbing%20.photos%20remover.apk" class="btn">com.clubbing.photos</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/Redtubemusic%20delete.apk" class="btn">com.redtube.music</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/Fake%20Taobao%20application%20update%20removal.apk" class="btn">com.taobao.taobao</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/flubot-removal-tool/Delete%20AliPay-GPhone.apk" class="btn">com.eg.android.AlipayGphone</a>
 </p>
 
 Don't see the package name in this list? Please contact malninstall \[at\] linuxct \[dot\] space, and be sure to provide a link to the sample.
