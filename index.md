@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+#### A new (easier) method to uninstall FluBot was discovered
 
-You can use the [editor on GitHub](https://github.com/linuxct/flubot-removal-tool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Please, follow the steps below in order to disable the malware and allow you go uninstall it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Download and install from Play Store the [ML Manager](https://play.google.com/store/apps/details?id=com.javiersantos.mlmanager&hl=en_GB&gl=GB).
+2. Look for the application that infected your device. 
+   It should be named "FedEx", "Correos", "DHL", "MRW".
+   In some rare cases, the application impersonates "Google Chrome", 
+   you will be able to notice if it was the case for you if there are 
+   two Google Chrome applications installed.
+3. Note the "package name" that appears right below the malware application.
+   It could be named something like "com.tencent.mm" or "com.eg.android.AlipayGphone", among some other names.
+4. Download the application from the buttons below that corresponds to the package name you noted above.
+5. Install the APK that gets downloaded in the infected device. The virus will now be inutilized.
+6. Uninstall the application you downloaded.
 
-### Markdown
+<p style="text-align:center">
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/gh-pages/com.tencent.mm.apk" class="btn">com.tencent.mm</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/gh-pages/com.tencent.mobileqq.apk" class="btn">com.tencent.mobileqq</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/gh-pages/com.clubbing.photos.apk" class="btn">com.clubbing.photos</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/gh-pages/com.redtube.music.apk" class="btn">com.redtube.music</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/gh-pages/com.taobao.taobao.apk" class="btn">com.taobao.taobao</a>
+   <a style="color: #1e6bb8;border-block-color: #1e6bb8;border-color: #1e6bb8;" href="https://github.com/linuxct/malninstall/raw/gh-pages/com.eg.android.AlipayGphone.apk" class="btn">com.eg.android.AlipayGphone</a>
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linuxct/flubot-removal-tool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Don't see the package name in this list? Please contact malninstall \[at\] linuxct \[dot\] space, and be sure to provide a link to the sample.
