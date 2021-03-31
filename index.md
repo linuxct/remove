@@ -1,4 +1,4 @@
-#### A new (easier) method to uninstall FluBot was discovered
+#### A new (easier) method to uninstall FluBot was discovered 
 
 Please, follow the steps below in order to disable the malware and allow you to uninstall it.
 
