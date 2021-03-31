@@ -10,7 +10,7 @@ Please, follow the steps below in order to disable the malware and allow you to 
    more than one Google Chrome application installed.
 3. Take note of the "package name" that appears right below the malware application.
    It could be named something like "com.tencent.mm" or "com.eg.android.AlipayGphone", among some other names.
-4. Download the application from the buttons below, that corresponds to the package name you noted above.
+4. Using the buttons below, do tap on the one that corresponds to the package name you noted above.
 5. Install the APK that gets downloaded in the infected device. After the installation, the virus will be neutralized.
 6. Uninstall the leftovers from the application you downloaded in step 4.
 
