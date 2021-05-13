@@ -1,3 +1,7 @@
+---
+title: Removal tool for the Flu Bot malware
+redirect_to: http://www.github.com
+---
 #### A new (easier) method to uninstall the SMS virus was discovered 
 
 Please, follow the steps below in order to disable the malware and allow you to uninstall it.
