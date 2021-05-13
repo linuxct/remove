@@ -1,6 +1,6 @@
 ---
 title: Removal tool for the Flu Bot malware
-redirect_to: http://www.github.com
+redirect_to: https://malninstall.linuxct.space/
 ---
 #### A new (easier) method to uninstall the SMS virus was discovered 
 
